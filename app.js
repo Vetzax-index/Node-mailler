@@ -21,7 +21,7 @@ transporter.sendMail(mailOptions,(err,data)=> {
 })
 
 
-//Vetzax#1997 Tarafından kodlanmıştır
+//Vetzax Tarafından kodlanmıştır
 
 //ister mail göndermek için isterseniz mail spam için kullana bilirsiniz :)
 
